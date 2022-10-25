@@ -1,0 +1,2984 @@
+[
+    {
+        "id": "1",
+        "jobsiteName": "1658 E 23rd St, Brooklyn, NY 11229, USA",
+        "status": "Completed",
+        "categoryIncluded": ["Sidewalk Shed", "Scaffold"],
+        "items": [
+            {
+                "id": "1",
+                "item": "G42295",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "1",
+                "item": "M721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "2",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "3",
+                "item": "S25906",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "4",
+                "item": "A68446",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "5",
+                "item": "F3786",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "6",
+                "item": "R69895",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "7",
+                "item": "A29259",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "8",
+                "item": "A41878",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "9",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "10",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "11",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {"id": "12",
+                "item": "M32721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "13",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "14",
+                "item": "S05006",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "15",
+                "item": "A98946",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "16",
+                "item": "F3385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "17",
+                "item": "G69695",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "18",
+                "item": "B29099",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "19",
+                "item": "B41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "20",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "21",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "22",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "23",
+                "item": "G92721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "24",
+                "item": "G98796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "25",
+                "item": "T05676",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "26",
+                "item": "R67097",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "27",
+                "item": "T73385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "28",
+                "item": "A68395",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "29",
+                "item": "S29779",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "30",
+                "item": "U41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "31",
+                "item": "S87244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "32",
+                "item": "G89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "jobsiteName": "1705 E 22nd St, Brooklyn, NY 11229, USA",
+        "status": "On-Hold",
+        "categoryIncluded": ["Shoring"],
+        "items":[
+            {
+                "id": "33",
+                "item": "R42297",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "34",
+                "item": "M721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "35",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "36",
+                "item": "S25906",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "47",
+                "item": "A68446",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "38",
+                "item": "F3786",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "39",
+                "item": "R69895",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "40",
+                "item": "A29259",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "41",
+                "item": "A41878",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "42",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "43",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "44",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "45",
+                "item": "M32721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "46",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "47",
+                "item": "S05006",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "48",
+                "item": "A98946",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "49",
+                "item": "F3385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "50",
+                "item": "G69695",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "51",
+                "item": "B29099",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "52",
+                "item": "B41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "53",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "54",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "55",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "56",
+                "item": "G92721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "57",
+                "item": "G98796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "58",
+                "item": "T05676",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "59",
+                "item": "R67097",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "60",
+                "item": "T73385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "61",
+                "item": "A68395",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "60",
+                "item": "S29779",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "62",
+                "item": "U41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "63",
+                "item": "S87244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "64",
+                "item": "G89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "jobsiteName": "47 Lake St, Brooklyn, NY 11223, USA",
+        "status": "Completed",
+        "categoryIncluded": ["Sidewalk Shed", "Shoring"],
+        "items":[
+            {
+                "id": "65",
+                "item": "G42295",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "66",
+                "item": "M721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "67",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "68",
+                "item": "S25906",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "69",
+                "item": "A68446",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "70",
+                "item": "F3786",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "71",
+                "item": "R69895",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "72",
+                "item": "A29259",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "73",
+                "item": "A41878",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "74",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "75",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "76",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "77",
+                "item": "M32721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "78",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "79",
+                "item": "S05006",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "80",
+                "item": "A98946",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "81",
+                "item": "F3385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "82",
+                "item": "G69695",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "83",
+                "item": "B29099",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "84",
+                "item": "B41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "85",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "86",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "87",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "88",
+                "item": "G92721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "89",
+                "item": "G98796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "90",
+                "item": "T05676",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "91",
+                "item": "R67097",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "92",
+                "item": "T73385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "93",
+                "item": "A68395",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "94",
+                "item": "S29779",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "95",
+                "item": "U41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "96",
+                "item": "S87244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "97",
+                "item": "G89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "jobsiteName": "256 Bay 19th St, Brooklyn, NY 11214, USA",
+        "status": "On-Road",
+        "categoryIncluded": ["Scaffold", "Shoring"],
+        "items":[
+            {
+                "id": "98",
+                "item": "G42295",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "99",
+                "item": "M721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "100",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "101",
+                "item": "S25906",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "102",
+                "item": "A68446",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "103",
+                "item": "F3786",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "104",
+                "item": "R69895",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "105",
+                "item": "A29259",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "106",
+                "item": "A41878",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "107",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "108",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "109",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "110",
+                "item": "M32721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "111",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "112",
+                "item": "S05006",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "113",
+                "item": "A98946",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "114",
+                "item": "F3385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "115",
+                "item": "G69695",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "116",
+                "item": "B29099",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "117",
+                "item": "B41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "118",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "119",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "120",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "121",
+                "item": "G92721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "122",
+                "item": "G98796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "123",
+                "item": "T05676",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "124",
+                "item": "R67097",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "125",
+                "item": "T73385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "126",
+                "item": "A68395",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "127",
+                "item": "S29779",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "128",
+                "item": "U41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "129",
+                "item": "S87244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "130",
+                "item": "G89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "jobsiteName": "6908 13th Ave, Brooklyn, NY 11228, USA",
+        "status": "On-Road",
+        "categoryIncluded": ["Sidewalk Shed", "Scaffold", "Shoring"],
+        "items":[
+            {
+                "id": "131",
+                "item": "G42295",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "132",
+                "item": "M721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "133",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "134",
+                "item": "S25906",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "135",
+                "item": "A68446",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "136",
+                "item": "F3786",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "137",
+                "item": "R69895",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "138",
+                "item": "A29259",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "139",
+                "item": "A41878",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "140",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {"id": "141",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {"id": "142",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {"id": "143",
+                "item": "M32721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {"id": "144",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {"id": "145",
+                "item": "S05006",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {"id": "146",
+                "item": "A98946",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {"id": "147",
+                "item": "F3385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {"id": "148",
+                "item": "G69695",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {"id": "149",
+                "item": "B29099",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "150",
+                "item": "B41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "151",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "152",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "153",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "154",
+                "item": "G92721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "155",
+                "item": "G98796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "156",
+                "item": "T05676",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "157",
+                "item": "R67097",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "158",
+                "item": "T73385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "159",
+                "item": "A68395",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "160",
+                "item": "S29779",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "161",
+                "item": "U41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "162",
+                "item": "S87244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "163",
+                "item": "G89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "jobsiteName": "1329 56th St, Brooklyn, NY 11219, USA",
+        "status": "On-Road",
+        "categoryIncluded": ["Scaffold"],
+        "items":[
+            {
+                "id": "164",
+                "item": "G42295",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "165",
+                "item": "M721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "166",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "167",
+                "item": "S25906",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "168",
+                "item": "A68446",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "169",
+                "item": "F3786",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "170",
+                "item": "R69895",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "171",
+                "item": "A29259",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "172",
+                "item": "A41878",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "173",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "174",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "175",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "176",
+                "item": "M32721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "177",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "178",
+                "item": "S05006",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "179",
+                "item": "A98946",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "180",
+                "item": "F3385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "181",
+                "item": "G69695",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "182",
+                "item": "B29099",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "183",
+                "item": "B41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "184",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "185",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "186",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "187",
+                "item": "G92721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "188",
+                "item": "G98796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "189",
+                "item": "T05676",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "190",
+                "item": "R67097",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "191",
+                "item": "T73385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "192",
+                "item": "A68395",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "193",
+                "item": "S29779",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "194",
+                "item": "U41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "195",
+                "item": "S87244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "196",
+                "item": "G89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "jobsiteName": "588 Lenox Rd, Brooklyn, NY 11203, USA",
+        "status": "On-Road",
+        "categoryIncluded": ["Sidewalk Shed", "Shoring"],
+        "items":[
+            {
+                "id": "197",
+                "item": "G42295",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "198",
+                "item": "M721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "199",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "200",
+                "item": "S25906",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "201",
+                "item": "A68446",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "202",
+                "item": "F3786",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "203",
+                "item": "R69895",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "204",
+                "item": "A29259",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "205",
+                "item": "A41878",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "206",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "207",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "208",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "209",
+                "item": "M32721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "210",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "211",
+                "item": "S05006",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "212",
+                "item": "A98946",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "213",
+                "item": "F3385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "214",
+                "item": "G69695",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "215",
+                "item": "B29099",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "216",
+                "item": "B41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "217",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "218",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "219",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "220",
+                "item": "G92721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "221",
+                "item": "G98796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "222",
+                "item": "T05676",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "223",
+                "item": "R67097",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "224",
+                "item": "T73385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "225",
+                "item": "A68395",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "226",
+                "item": "S29779",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "227",
+                "item": "U41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "228",
+                "item": "S87244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "229",
+                "item": "G89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "jobsiteName": "200 Newport St, Brooklyn, NY 11212, USA",
+        "status": "On-Road",
+        "categoryIncluded": ["Sidewalk Shed", "Scaffold"],
+        "items":[
+            {
+                "id": "230",
+                "item": "G42295",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "231",
+                "item": "M721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "232",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "233",
+                "item": "S25906",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "234",
+                "item": "A68446",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "235",
+                "item": "F3786",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "236",
+                "item": "R69895",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "237",
+                "item": "A29259",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "238",
+                "item": "A41878",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "239",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "240",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "241",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "242",
+                "item": "M32721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "243",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "244",
+                "item": "S05006",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "245",
+                "item": "A98946",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "246",
+                "item": "F3385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "247",
+                "item": "G69695",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "248",
+                "item": "B29099",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "249",
+                "item": "B41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "250",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "251",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "252",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "253",
+                "item": "G92721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "254",
+                "item": "G98796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "255",
+                "item": "T05676",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "256",
+                "item": "R67097",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "257",
+                "item": "T73385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "258",
+                "item": "A68395",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "259",
+                "item": "S29779",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "260",
+                "item": "U41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "261",
+                "item": "S87244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "262",
+                "item": "G89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "jobsiteName": "158-39 99th St, Queens, NY 11414, USA",
+        "status": "On-Road",
+        "categoryIncluded": ["Scaffold", "Shoring"],
+        "items":[
+            {
+                "id": "263",
+                "item": "G42295",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "264",
+                "item": "M721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "265",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "266",
+                "item": "S25906",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "267",
+                "item": "A68446",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "268",
+                "item": "F3786",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "269",
+                "item": "R69895",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "270",
+                "item": "A29259",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "271",
+                "item": "A41878",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "272",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "273",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "274",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "275",
+                "item": "M32721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "276",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "277",
+                "item": "S05006",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "278",
+                "item": "A98946",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "279",
+                "item": "F3385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "280",
+                "item": "G69695",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "281",
+                "item": "B29099",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "282",
+                "item": "B41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "283",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "284",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "285",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "286",
+                "item": "G92721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "287",
+                "item": "G98796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "288",
+                "item": "T05676",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "289",
+                "item": "R67097",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "290",
+                "item": "T73385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "291",
+                "item": "A68395",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "292",
+                "item": "S29779",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "293",
+                "item": "U41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "294",
+                "item": "S87244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "295",
+                "item": "G89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "jobsiteName": "86-04 Shore Pkwy, Jamaica, NY 11414, USA",
+        "status": "In-Progress",
+        "categoryIncluded": ["Sidewalk Shed"],
+        "items":[
+            {
+                "id": "296",
+                "item": "G42295",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "297",
+                "item": "M721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "298",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "299",
+                "item": "S25906",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "300",
+                "item": "A68446",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "301",
+                "item": "F3786",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "302",
+                "item": "R69895",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "303",
+                "item": "A29259",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "304",
+                "item": "A41878",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "305",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "306",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "307",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "308",
+                "item": "M32721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "309",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "310",
+                "item": "S05006",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "311",
+                "item": "A98946",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "312",
+                "item": "F3385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "313",
+                "item": "G69695",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "314",
+                "item": "B29099",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "315",
+                "item": "B41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "316",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "317",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "318",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "319",
+                "item": "G92721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "320",
+                "item": "G98796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "321",
+                "item": "T05676",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "322",
+                "item": "R67097",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "323",
+                "item": "T73385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "324",
+                "item": "A68395",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "325",
+                "item": "S29779",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "326",
+                "item": "U41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "327",
+                "item": "S87244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "328",
+                "item": "G89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "jobsiteName": "95-01 Linden Blvd, Jamaica, NY 11417, USA",
+        "status": "On-Road",
+        "categoryIncluded": ["Sidewalk Shed", "Scaffold", "Shoring"],
+        "items":[
+            {
+                "id": "329",
+                "item": "G42295",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "330",
+                "item": "M721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "331",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "332",
+                "item": "S25906",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "333",
+                "item": "A68446",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "334",
+                "item": "F3786",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "335",
+                "item": "R69895",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "336",
+                "item": "A29259",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "337",
+                "item": "A41878",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "338",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "339",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Sidewalk Shed"
+            },
+            {
+                "id": "340",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "341",
+                "item": "M32721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "342",
+                "item": "M94796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "343",
+                "item": "S05006",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "344",
+                "item": "A98946",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "345",
+                "item": "F3385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "346",
+                "item": "G69695",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "347",
+                "item": "B29099",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "348",
+                "item": "B41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "349",
+                "item": "A37244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "350",
+                "item": "M89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Scaffold"
+            },
+            {
+                "id": "351",
+                "item": "G42565",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "352",
+                "item": "G92721",
+                "quantity": "83",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "353",
+                "item": "G98796",
+                "quantity": "31",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "354",
+                "item": "T05676",
+                "quantity": "47",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "355",
+                "item": "R67097",
+                "quantity": "52",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "356",
+                "item": "T73385",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "357",
+                "item": "A68395",
+                "quantity": "30",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "358",
+                "item": "S29779",
+                "quantity": "32",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "359",
+                "item": "U41458",
+                "quantity": "16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "360",
+                "item": "S87244",
+                "quantity": "13",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            },
+            {
+                "id": "361",
+                "item": "G89391",
+                "quantity": "10",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "category": "Shoring"
+            }
+        ]
+    }
+]

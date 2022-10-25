@@ -1,0 +1,147 @@
+::-webkit-scrollbar{
+    width: 7px;
+    height: 37px;
+    right: 1px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #1F2A44;
+    border-radius: 5px;
+}
+
+.jobsite-table{
+    /* height: 90vh; */
+    background-color: #fff;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin: 10px;
+    overflow: hidden;
+}
+
+
+.table{
+    width: 100%;
+    /* border-radius: 10px; */
+}
+
+
+
+.jobsite-table h5{
+    margin: 0;
+    background-color: #F8F8FA;
+    border-radius: 10px 10px 0px 0px;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.search-panel {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px;
+}
+
+.search-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search-bar p{
+    font-size: 14px;
+    font-weight: 400;
+}
+.search-bar input{
+    height: 32px;
+    width: 400px;
+    background-color: #FCFCFC;
+    border: solid #EAEAEA;
+    border-radius: 5px;
+    margin-right: 20px;
+    color: grey;
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 12px;
+}
+
+.create-buttons{
+    width: 40%;
+}
+.create-buttons button{
+    background-color: #71CF48;
+    border: none;
+    color: #fff;
+}
+.create-buttons button:first-child{
+    width: 70%;
+    height: 35px;
+    border-right: 1.3px solid #68C142;
+    border-radius: 5px 0px 0px 5px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.create-buttons button:last-child{
+    width: 30%;
+    height: 35px;
+    border-radius: 0px 5px 5px 0px;
+    font-size: 14px;
+}
+.create-buttons button:focus{
+    background-color: #68C142;
+}
+
+.table{
+    border-collapse: collapse;
+}
+.table tbody tr:nth-child(odd){
+    background-color: #F8F8FA;
+    border: 1px solid #F8F8FA;
+}
+.table th, td{
+    width: 50%;
+    height: 42px;
+    text-align-last: center;
+    color: #323338;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0px;
+}
+.table th{
+    font-weight: 600;
+}
+
+
+.btn{
+    width: 130px;
+    height: 34px;
+    border: none;
+    border-radius: 5px;
+    padding: 6.8px 15px;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+}
+.In-Progress{
+    background-color: #B3D99B;
+}
+
+
+@media only screen and (max-width: 900px){
+    .search-panel{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .create-buttons{
+        width: 20%;
+    }
+}
+@media only screen and (max-width: 500px){
+    .btn{
+        font-size: 14px;
+    }
+    .search-bar input{
+        width: 150px;
+    }
+    .create-buttons{
+        width: 30%;
+    }
+}
